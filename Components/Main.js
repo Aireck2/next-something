@@ -1,6 +1,8 @@
+import Calendar from "./Calendar";
+
 const Main = () => (
   <div>
-    <h1>Something</h1>
+    <Calendar></Calendar>
   </div>
 );
 
